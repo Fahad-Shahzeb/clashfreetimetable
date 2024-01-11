@@ -1,0 +1,4 @@
+pandas==1.4.5
+csv
+random
+copy
